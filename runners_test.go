@@ -222,7 +222,7 @@ func TestRegisterNewRunnerInfo(t *testing.T) {
 		&Active,
 		&Locked,
 		&RunUntagged,
-		TagList,
+		&TagList,
 		&MaximumTimeout,
 	}
 
